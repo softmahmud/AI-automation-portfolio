@@ -1,4 +1,4 @@
-Sani Mahmud | AI Automation Specialist
+Mahmud Sani | AI Automation Specialist
 
 I build practical business automation solutions that streamline workflows, reduce repetitive tasks, and improve operational efficiency.
 
