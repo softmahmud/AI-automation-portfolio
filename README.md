@@ -16,7 +16,7 @@ An n8n workflow that captures property enquiries, applies qualification rules, s
 
 Technologies: n8n, Google Sheets, Gmail, conditional logic.
 
-View project (Real Estate Lead Qualification & Response Automation)
+View project: https://github.com/softmahmud/AI-automation-portfolio/tree/main/Real%20Estate%20Lead%20Qualification%20%26%20Response%20Automation
 
 Career Objective;
 Interested in building reliable AI-powered workflows and business automation systems that solve real operational problems.
