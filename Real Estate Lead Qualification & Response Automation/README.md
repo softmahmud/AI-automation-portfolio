@@ -46,6 +46,8 @@ Screenshots
 1. Workflow overview
 Real Estate Lead Qualification & Response Automation/screenshots/workflow-overview.png
 2. Lead Scoring and Qualification
+Real Estate Lead Qualification & Response Automation/screenshots/Lead routing.jpg
+
 
 
 
