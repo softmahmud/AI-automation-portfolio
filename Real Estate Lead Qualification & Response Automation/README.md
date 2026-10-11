@@ -41,6 +41,14 @@ I built an automated workflow that processes property enquiries, evaluates buyer
 
 The workflow was tested with sample property enquiries and successfully processed submissions, stored the information, and sent email notifications.
 
+Screenshots
+
+1. Workflow overview
+Real Estate Lead Qualification & Response Automation/screenshots/workflow-overview.png
+2. Lead Scoring and Qualification
+
+
+
 ## Setup
 
 1. Export or import the workflow using n8n.
