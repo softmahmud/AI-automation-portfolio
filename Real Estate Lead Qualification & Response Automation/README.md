@@ -51,6 +51,7 @@ Real Estate Lead Qualification & Response Automation/screenshots/Lead routing.jp
 Real Estate Lead Qualification & Response Automation/screenshots/lead scoring.jpg
 
 3. Google Sheets Integration
+Real Estate Lead Qualification & Response Automation/screenshots/google-sheets-results.png
 
 
 
